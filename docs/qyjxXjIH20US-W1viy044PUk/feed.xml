@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Daily Brief</title>
+    <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
+    <language>en-us</language>
+    <copyright>Private feed for Dustin Weber</copyright>
+    <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
+    <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 06 Sep 2026 13:58:38 +0000</lastBuildDate>
+    <itunes:author>AIPodcaster</itunes:author>
+    <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Dustin Weber</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/cover.jpg"/>
+    <image>
+      <url>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/cover.jpg</url>
+      <title>AI Daily Brief</title>
+      <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
+    </image>
+    <item>
+      <title>Sep 6 — Factory patterns &amp; software-factory sweep</title>
+      <description>Overnight wiki drops: AI That Works factory patterns plus a last30days software-factory sweep. No morning TLDR recap yet.</description>
+      <pubDate>Sun, 06 Sep 2026 13:23:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-06-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-06-daily.mp3" length="2259949" type="audio/mpeg"/>
+      <itunes:title>Sep 6 — Factory patterns &amp; software-factory sweep</itunes:title>
+      <itunes:summary>Overnight wiki drops: AI That Works factory patterns plus a last30days software-factory sweep. No morning TLDR recap yet.</itunes:summary>
+      <itunes:duration>00:02:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sep 3 — Cost, workslop, and Fast models</title>
+      <description>From the TLDR wiki: AI coding cost traps, workslop in review, and another fast Gemini Flash — in plain language.</description>
+      <pubDate>Sun, 06 Sep 2026 02:50:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-03-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-03-daily.mp3" length="1938120" type="audio/mpeg"/>
+      <itunes:title>Sep 3 — Cost, workslop, and Fast models</itunes:title>
+      <itunes:summary>From the TLDR wiki: AI coding cost traps, workslop in review, and another fast Gemini Flash — in plain language.</itunes:summary>
+      <itunes:duration>00:02:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
