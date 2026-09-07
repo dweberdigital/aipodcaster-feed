@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Daily Brief</title>
     <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
@@ -10,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 06 Sep 2026 13:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:56:59 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -25,24 +24,35 @@
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
     <item>
-      <title>Sep 6 — Factory patterns &amp; software-factory sweep</title>
-      <description>Overnight wiki drops: AI That Works factory patterns plus a last30days software-factory sweep. No morning TLDR recap yet.</description>
-      <pubDate>Sun, 06 Sep 2026 13:23:00 +0000</pubDate>
+      <title>2026-09-07 — Sep 7, 2026</title>
+      <description>Here&#x27;s the idea in plain English. Code mode means you give the agent a small runtime and some stubs — an SDK — and let it write real code that composes tools in one shot, instead of bouncing through a dozen model round trips. Bash is already code mode when the harness collapses l</description>
+      <pubDate>Mon, 07 Sep 2026 13:56:59 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-07-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-07-daily.mp3" length="2387008" type="audio/mpeg"/>
+      <itunes:title>2026-09-07 — Sep 7, 2026</itunes:title>
+      <itunes:summary>Here&#x27;s the idea in plain English. Code mode means you give the agent a small runtime and some stubs — an SDK — and let it write real code that composes tools in one shot, instead of bouncing through a dozen model round trips. Bash is already code mode when the harness collapses l</itunes:summary>
+      <itunes:duration>00:02:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-09-06 — Sep 6, 2026</title>
+      <description>First up: Dex and Vaibhav&#x27;s software factory design patterns episode is trapped. They refuse to treat the factory as one black box. Four layers — compute, then the dev environment, then the harness, then orchestration — and you buy or build per layer, not the whole stack. Dev env</description>
+      <pubDate>Sun, 06 Sep 2026 13:58:23 +0000</pubDate>
       <guid isPermaLink="false">2026-09-06-daily</guid>
       <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-06-daily.mp3" length="2259949" type="audio/mpeg"/>
-      <itunes:title>Sep 6 — Factory patterns &amp; software-factory sweep</itunes:title>
-      <itunes:summary>Overnight wiki drops: AI That Works factory patterns plus a last30days software-factory sweep. No morning TLDR recap yet.</itunes:summary>
+      <itunes:title>2026-09-06 — Sep 6, 2026</itunes:title>
+      <itunes:summary>First up: Dex and Vaibhav&#x27;s software factory design patterns episode is trapped. They refuse to treat the factory as one black box. Four layers — compute, then the dev environment, then the harness, then orchestration — and you buy or build per layer, not the whole stack. Dev env</itunes:summary>
       <itunes:duration>00:02:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Sep 3 — Cost, workslop, and Fast models</title>
-      <description>From the TLDR wiki: AI coding cost traps, workslop in review, and another fast Gemini Flash — in plain language.</description>
-      <pubDate>Sun, 06 Sep 2026 02:50:00 +0000</pubDate>
+      <title>2026-09-03 — Sep 3, 2026</title>
+      <description>Three things worth chewing on.</description>
+      <pubDate>Sun, 06 Sep 2026 13:58:23 +0000</pubDate>
       <guid isPermaLink="false">2026-09-03-daily</guid>
       <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-03-daily.mp3" length="1938120" type="audio/mpeg"/>
-      <itunes:title>Sep 3 — Cost, workslop, and Fast models</itunes:title>
-      <itunes:summary>From the TLDR wiki: AI coding cost traps, workslop in review, and another fast Gemini Flash — in plain language.</itunes:summary>
+      <itunes:title>2026-09-03 — Sep 3, 2026</itunes:title>
+      <itunes:summary>Three things worth chewing on.</itunes:summary>
       <itunes:duration>00:02:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
