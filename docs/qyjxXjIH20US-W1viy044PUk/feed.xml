@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 07 Sep 2026 13:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:50:35 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-09-08 — Sep 8, 2026</title>
+      <description>First: Vercel&#x27;s agents are shipping on-brand pages with a public design.md plus a fixed stylesheet of classes and tokens, then an eval loop that turns human &quot;that&#x27;s wrong&quot; into named rules and deterministic checks. After a couple hundred runs, pages that had the file saw way fewe</description>
+      <pubDate>Tue, 08 Sep 2026 13:50:35 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-08-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-08-daily.mp3" length="2283773" type="audio/mpeg"/>
+      <itunes:title>2026-09-08 — Sep 8, 2026</itunes:title>
+      <itunes:summary>First: Vercel&#x27;s agents are shipping on-brand pages with a public design.md plus a fixed stylesheet of classes and tokens, then an eval loop that turns human &quot;that&#x27;s wrong&quot; into named rules and deterministic checks. After a couple hundred runs, pages that had the file saw way fewe</itunes:summary>
+      <itunes:duration>00:02:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-07 — Sep 7, 2026</title>
       <description>Here&#x27;s the idea in plain English. Code mode means you give the agent a small runtime and some stubs — an SDK — and let it write real code that composes tools in one shot, instead of bouncing through a dozen model round trips. Bash is already code mode when the harness collapses l</description>
