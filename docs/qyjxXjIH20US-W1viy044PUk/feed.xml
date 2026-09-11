@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 08 Sep 2026 13:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:33:13 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -24,9 +24,20 @@
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
     <item>
+      <title>2026-09-11 — Sep 11, 2026</title>
+      <description>First: Cursor can now run cloud agents on machines you manage. Workers live inside your network, talk outbound to Cursor&#x27;s loop, scale with queue demand, and hibernate when idle. There&#x27;s even a Kubernetes path. Closest commercial fit yet for coding agents that need private regist</description>
+      <pubDate>Fri, 11 Sep 2026 13:33:12 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-11-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-11-daily.mp3" length="2555446" type="audio/mpeg"/>
+      <itunes:title>2026-09-11 — Sep 11, 2026</itunes:title>
+      <itunes:summary>First: Cursor can now run cloud agents on machines you manage. Workers live inside your network, talk outbound to Cursor&#x27;s loop, scale with queue demand, and hibernate when idle. There&#x27;s even a Kubernetes path. Closest commercial fit yet for coding agents that need private regist</itunes:summary>
+      <itunes:duration>00:02:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2026-09-08 — Sep 8, 2026</title>
       <description>First: Vercel&#x27;s agents are shipping on-brand pages with a public design.md plus a fixed stylesheet of classes and tokens, then an eval loop that turns human &quot;that&#x27;s wrong&quot; into named rules and deterministic checks. After a couple hundred runs, pages that had the file saw way fewe</description>
-      <pubDate>Tue, 08 Sep 2026 13:50:35 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 04:53:49 +0000</pubDate>
       <guid isPermaLink="false">2026-09-08-daily</guid>
       <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-08-daily.mp3" length="2283773" type="audio/mpeg"/>
       <itunes:title>2026-09-08 — Sep 8, 2026</itunes:title>
@@ -37,7 +48,7 @@
     <item>
       <title>2026-09-07 — Sep 7, 2026</title>
       <description>Here&#x27;s the idea in plain English. Code mode means you give the agent a small runtime and some stubs — an SDK — and let it write real code that composes tools in one shot, instead of bouncing through a dozen model round trips. Bash is already code mode when the harness collapses l</description>
-      <pubDate>Mon, 07 Sep 2026 13:56:59 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 04:53:49 +0000</pubDate>
       <guid isPermaLink="false">2026-09-07-daily</guid>
       <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-07-daily.mp3" length="2387008" type="audio/mpeg"/>
       <itunes:title>2026-09-07 — Sep 7, 2026</itunes:title>
@@ -48,7 +59,7 @@
     <item>
       <title>2026-09-06 — Sep 6, 2026</title>
       <description>First up: Dex and Vaibhav&#x27;s software factory design patterns episode is trapped. They refuse to treat the factory as one black box. Four layers — compute, then the dev environment, then the harness, then orchestration — and you buy or build per layer, not the whole stack. Dev env</description>
-      <pubDate>Sun, 06 Sep 2026 13:58:23 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 04:53:45 +0000</pubDate>
       <guid isPermaLink="false">2026-09-06-daily</guid>
       <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-06-daily.mp3" length="2259949" type="audio/mpeg"/>
       <itunes:title>2026-09-06 — Sep 6, 2026</itunes:title>
@@ -59,7 +70,7 @@
     <item>
       <title>2026-09-03 — Sep 3, 2026</title>
       <description>Three things worth chewing on.</description>
-      <pubDate>Sun, 06 Sep 2026 13:58:23 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 04:53:37 +0000</pubDate>
       <guid isPermaLink="false">2026-09-03-daily</guid>
       <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-03-daily.mp3" length="1938120" type="audio/mpeg"/>
       <itunes:title>2026-09-03 — Sep 3, 2026</itunes:title>
