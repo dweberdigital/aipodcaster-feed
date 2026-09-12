@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 11 Sep 2026 13:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:22:22 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-09-12 — Sep 12, 2026</title>
+      <description>First: OpenAI shipped an Agents API that exposes the managed Codex-style harness — context, tools, subagents, durable workspaces, files, and code environments for long-running work. Steal the runtime shape, not the SaaS. You already care about session plus tools plus subagents pl</description>
+      <pubDate>Sat, 12 Sep 2026 13:22:21 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-12-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-12-daily.mp3" length="2613542" type="audio/mpeg"/>
+      <itunes:title>2026-09-12 — Sep 12, 2026</itunes:title>
+      <itunes:summary>First: OpenAI shipped an Agents API that exposes the managed Codex-style harness — context, tools, subagents, durable workspaces, files, and code environments for long-running work. Steal the runtime shape, not the SaaS. You already care about session plus tools plus subagents pl</itunes:summary>
+      <itunes:duration>00:02:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-11 — Sep 11, 2026</title>
       <description>First: Cursor can now run cloud agents on machines you manage. Workers live inside your network, talk outbound to Cursor&#x27;s loop, scale with queue demand, and hibernate when idle. There&#x27;s even a Kubernetes path. Closest commercial fit yet for coding agents that need private regist</description>
