@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 17 Sep 2026 13:46:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:51:54 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-09-18 — Sep 18, 2026</title>
+      <description>First: researchers chained a Discourse image-decode bug with an OpenAI single-sign-on flaw, took over employee ChatGPT and Codex accounts, then used a connected coding agent to open a pull request in the internal monorepo. Scope included connected GitHub — and potentially Slack o</description>
+      <pubDate>Fri, 18 Sep 2026 13:51:53 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-18-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-18-daily.mp3" length="2611453" type="audio/mpeg"/>
+      <itunes:title>2026-09-18 — Sep 18, 2026</itunes:title>
+      <itunes:summary>First: researchers chained a Discourse image-decode bug with an OpenAI single-sign-on flaw, took over employee ChatGPT and Codex accounts, then used a connected coding agent to open a pull request in the internal monorepo. Scope included connected GitHub — and potentially Slack o</itunes:summary>
+      <itunes:duration>00:02:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-17 — Sep 17, 2026</title>
       <description>First: Google opened Home MCP so any capable agent can talk to devices, history, cameras, dashboards. They ban some sensitive moves like unlocking doors, and still warn agents can do unexpected stuff. Steal the pattern for your platform tools — don&#x27;t just allowlist &quot;safe&quot; calls. </description>
