@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 20 Sep 2026 13:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:05:50 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-09-21 — Sep 21, 2026</title>
+      <description>First: Google open-sourced AX — Agent Executor — plus Agent Substrate. Think declarative agent orchestrator on Kubernetes. It sandboxes tasks, wires workspaces like repos, MCP, and skills, and fences network and credentials. Feels like GitOps for agent fleets, not chat sessions. </description>
+      <pubDate>Mon, 21 Sep 2026 14:05:49 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-21-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-21-daily.mp3" length="2017533" type="audio/mpeg"/>
+      <itunes:title>2026-09-21 — Sep 21, 2026</itunes:title>
+      <itunes:summary>First: Google open-sourced AX — Agent Executor — plus Agent Substrate. Think declarative agent orchestrator on Kubernetes. It sandboxes tasks, wires workspaces like repos, MCP, and skills, and fences network and credentials. Feels like GitOps for agent fleets, not chat sessions. </itunes:summary>
+      <itunes:duration>00:02:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-20 — Sep 20, 2026</title>
       <description>First: Dex Horthy open-sourced HumanLayer&#x27;s show-me skill. Idea is simple — before you merge an agent pull request, run a pass that makes the agent show its work: what changed, why, and where the risk is. Cuts the vague &quot;looks fine&quot; slop that piles up when agents ship fast and hu</description>
