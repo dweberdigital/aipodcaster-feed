@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Sep 2026 14:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:54:14 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-09-23 — Sep 23, 2026</title>
+      <description>First: same-day price war. OpenAI dropped GPT-6 Luna and Sol hard — Luna about ten cents in and fifty cents out per million tokens — and Anthropic cut Claude Opus five point five below Opus five while keeping serious intelligence. The catch from Simon Willison: crank Opus to max </description>
+      <pubDate>Wed, 23 Sep 2026 13:54:12 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-23-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-23-daily.mp3" length="2638202" type="audio/mpeg"/>
+      <itunes:title>2026-09-23 — Sep 23, 2026</itunes:title>
+      <itunes:summary>First: same-day price war. OpenAI dropped GPT-6 Luna and Sol hard — Luna about ten cents in and fifty cents out per million tokens — and Anthropic cut Claude Opus five point five below Opus five while keeping serious intelligence. The catch from Simon Willison: crank Opus to max </itunes:summary>
+      <itunes:duration>00:02:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-22 — Sep 22, 2026</title>
       <description>First: Claude Projects got redesigned as a parallel branch coordinator. It stops being a folder of chats and starts scoping work, fanning jobs across cloud threads — each on its own branch — then reviewing outputs and assembling with shared memory. Even if you never run Claude&#x27;s </description>
