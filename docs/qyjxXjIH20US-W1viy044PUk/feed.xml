@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 25 Sep 2026 13:26:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:26:27 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-09-26 — Sep 26, 2026</title>
+      <description>First: CPU shortages from agent fleets. The Pragmatic Engineer notes spot CPU pricing drying up, reservations booked months ahead, and reinforcement learning plus cloud agents — compile, test, lint off the laptop — chewing through CPUs. GPU-to-CPU ratios are drifting toward one-t</description>
+      <pubDate>Sat, 26 Sep 2026 13:26:26 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-26-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-26-daily.mp3" length="2228602" type="audio/mpeg"/>
+      <itunes:title>2026-09-26 — Sep 26, 2026</itunes:title>
+      <itunes:summary>First: CPU shortages from agent fleets. The Pragmatic Engineer notes spot CPU pricing drying up, reservations booked months ahead, and reinforcement learning plus cloud agents — compile, test, lint off the laptop — chewing through CPUs. GPU-to-CPU ratios are drifting toward one-t</itunes:summary>
+      <itunes:duration>00:02:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-25 — Sep 25, 2026</title>
       <description>First: thinking in systems, shipping in loops. DHH’s line is blunt — hand-writing every line is no longer the scarce skill for most shops. One Artemis team merges about sixteen pull requests a day with agents writing the code while humans design the constraints and review. Lauren</description>
