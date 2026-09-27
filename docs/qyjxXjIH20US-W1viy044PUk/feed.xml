@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 13:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:33:44 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-09-27 — Sep 27, 2026</title>
+      <description>First beat: how Pete Steinberger’s team actually shipped it. Hannes Rudolph’s post — OpenClaw 2.0, Accidentally — says this was by far their largest update: nine hundred thirty-three contributors, five hundred sixty-nine of them first-timers, over sixteen thousand pull requests. </description>
+      <pubDate>Sun, 27 Sep 2026 13:33:44 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-27-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-27-daily.mp3" length="3644230" type="audio/mpeg"/>
+      <itunes:title>2026-09-27 — Sep 27, 2026</itunes:title>
+      <itunes:summary>First beat: how Pete Steinberger’s team actually shipped it. Hannes Rudolph’s post — OpenClaw 2.0, Accidentally — says this was by far their largest update: nine hundred thirty-three contributors, five hundred sixty-nine of them first-timers, over sixteen thousand pull requests. </itunes:summary>
+      <itunes:duration>00:03:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-26 — Sep 26, 2026</title>
       <description>First: CPU shortages from agent fleets. The Pragmatic Engineer notes spot CPU pricing drying up, reservations booked months ahead, and reinforcement learning plus cloud agents — compile, test, lint off the laptop — chewing through CPUs. GPU-to-CPU ratios are drifting toward one-t</description>
