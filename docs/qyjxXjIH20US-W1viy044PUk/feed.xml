@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 13:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:29:40 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-09-30 — Sep 30, 2026</title>
+      <description>First beat: Mattias Geniar’s Data is the application. Agentic coding made almost everything a two-way door — layout wrong, redeploy; feature going sideways, cancel the branch. He still works a lot of that from a phone into a remote coding environment. Data is the stop. Soft delet</description>
+      <pubDate>Wed, 30 Sep 2026 13:29:39 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-30-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-09-30-daily.mp3" length="4622672" type="audio/mpeg"/>
+      <itunes:title>2026-09-30 — Sep 30, 2026</itunes:title>
+      <itunes:summary>First beat: Mattias Geniar’s Data is the application. Agentic coding made almost everything a two-way door — layout wrong, redeploy; feature going sideways, cancel the branch. He still works a lot of that from a phone into a remote coding environment. Data is the stop. Soft delet</itunes:summary>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-29 — Sep 29, 2026</title>
       <description>First beat: OpenAI scrapped the planned October release of GPT six point one Astra after internal alignment tests. Wall Street Journal broke it; OpenAI’s safety-systems head Saachi Jain confirmed it. The model was stronger at end-to-end tasks without hand-holding and better on “l</description>
