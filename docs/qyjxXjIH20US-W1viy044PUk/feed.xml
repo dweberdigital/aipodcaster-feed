@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 13:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:37:52 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-01 — Oct 1, 2026</title>
+      <description>First beat: Lemma. Coding agents already gave you a harness for one person, one machine, one session — tools, memory, state, loop, boundary. Lemma’s pitch is that harness for a team. Shared, permissioned state so many people and many agents work the same records. It keeps running</description>
+      <pubDate>Thu, 01 Oct 2026 13:37:51 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-01-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-01-daily.mp3" length="4789020" type="audio/mpeg"/>
+      <itunes:title>2026-10-01 — Oct 1, 2026</itunes:title>
+      <itunes:summary>First beat: Lemma. Coding agents already gave you a harness for one person, one machine, one session — tools, memory, state, loop, boundary. Lemma’s pitch is that harness for a team. Shared, permissioned state so many people and many agents work the same records. It keeps running</itunes:summary>
+      <itunes:duration>00:04:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-09-30 — Sep 30, 2026</title>
       <description>First beat: Mattias Geniar’s Data is the application. Agentic coding made almost everything a two-way door — layout wrong, redeploy; feature going sideways, cancel the branch. He still works a lot of that from a phone into a remote coding environment. Data is the stop. Soft delet</description>
