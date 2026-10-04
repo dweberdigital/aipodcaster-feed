@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 03 Oct 2026 13:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:35:45 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-04 — Oct 4, 2026</title>
+      <description>First beat: Apple and Full Disk Access. On Friday Apple posted to its developer news feed that it’s adding controls around Full Disk Access on the Mac. That permission was built so backup apps could reach files wherever they live. It also largely sidesteps the finer Privacy and S</description>
+      <pubDate>Sun, 04 Oct 2026 13:35:43 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-04-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-04-daily.mp3" length="5437275" type="audio/mpeg"/>
+      <itunes:title>2026-10-04 — Oct 4, 2026</itunes:title>
+      <itunes:summary>First beat: Apple and Full Disk Access. On Friday Apple posted to its developer news feed that it’s adding controls around Full Disk Access on the Mac. That permission was built so backup apps could reach files wherever they live. It also largely sidesteps the finer Privacy and S</itunes:summary>
+      <itunes:duration>00:05:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-03 — Oct 3, 2026</title>
       <description>First beat: Clef. Cloudflare’s Michelle Chen and the Workers AI team shipped Clef and Clef-flash — decision models that are fully Jev API compatible, hosted on Workers AI, and open-sourced on Hugging Face under Apache two. A decision model isn’t another chat LLM. You pass it stat</description>
