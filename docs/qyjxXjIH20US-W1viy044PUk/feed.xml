@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 Oct 2026 13:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:43:11 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-07 — Oct 7, 2026</title>
+      <description>First beat: Codemode. Armin, the Flask guy, now working on the Pi coding agent, spent the last year telling people to skip loading custom tools and MCP servers into context and just use scripts and bash. With Pi 1.0 they added MCP support through Codemode, and he explains why tha</description>
+      <pubDate>Wed, 07 Oct 2026 13:43:09 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-07-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-07-daily.mp3" length="5814692" type="audio/mpeg"/>
+      <itunes:title>2026-10-07 — Oct 7, 2026</itunes:title>
+      <itunes:summary>First beat: Codemode. Armin, the Flask guy, now working on the Pi coding agent, spent the last year telling people to skip loading custom tools and MCP servers into context and just use scripts and bash. With Pi 1.0 they added MCP support through Codemode, and he explains why tha</itunes:summary>
+      <itunes:duration>00:06:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-06 — Oct 6, 2026</title>
       <description>First beat: ephemeral testing. Lemire, the sim-dee-JSON and fast-parsing guy, posted this yesterday, and it&#x27;s short. His idea: you build a component, yourself or with an agent, doesn&#x27;t matter. Then you ask an agent to build something on top of it, an app, another layer, maybe sev</description>
