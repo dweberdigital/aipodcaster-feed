@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Oct 2026 13:43:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:57:25 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-09 — Oct 9, 2026</title>
+      <description>First beat. GitHub is piloting an experimental accessibility agent that checks pull requests touching front-end code. So far it&#x27;s reviewed 3,535 pull requests and resolved 68 percent of what it found. The top issue types are pretty basic: unclear structure for screen readers, con</description>
+      <pubDate>Fri, 09 Oct 2026 13:57:23 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-09-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-09-daily.mp3" length="5831828" type="audio/mpeg"/>
+      <itunes:title>2026-10-09 — Oct 9, 2026</itunes:title>
+      <itunes:summary>First beat. GitHub is piloting an experimental accessibility agent that checks pull requests touching front-end code. So far it&#x27;s reviewed 3,535 pull requests and resolved 68 percent of what it found. The top issue types are pretty basic: unclear structure for screen readers, con</itunes:summary>
+      <itunes:duration>00:06:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-07 — Oct 7, 2026</title>
       <description>First beat: Codemode. Armin, the Flask guy, now working on the Pi coding agent, spent the last year telling people to skip loading custom tools and MCP servers into context and just use scripts and bash. With Pi 1.0 they added MCP support through Codemode, and he explains why tha</description>
