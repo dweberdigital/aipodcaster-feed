@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 09 Oct 2026 13:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:30:56 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-10 — Oct 10, 2026</title>
+      <description>First beat. A company called Runtime published a post titled &quot;Don&#x27;t merge what you didn&#x27;t run.&quot; Their point is that &quot;the tests pass&quot; is the weakest claim an agent makes, because the agent ran them on its own machine, after editing whatever files it liked, including the tests. The</description>
+      <pubDate>Sat, 10 Oct 2026 13:30:55 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-10-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-10-daily.mp3" length="5512089" type="audio/mpeg"/>
+      <itunes:title>2026-10-10 — Oct 10, 2026</itunes:title>
+      <itunes:summary>First beat. A company called Runtime published a post titled &quot;Don&#x27;t merge what you didn&#x27;t run.&quot; Their point is that &quot;the tests pass&quot; is the weakest claim an agent makes, because the agent ran them on its own machine, after editing whatever files it liked, including the tests. The</itunes:summary>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-09 — Oct 9, 2026</title>
       <description>First beat. GitHub is piloting an experimental accessibility agent that checks pull requests touching front-end code. So far it&#x27;s reviewed 3,535 pull requests and resolved 68 percent of what it found. The top issue types are pretty basic: unclear structure for screen readers, con</description>
