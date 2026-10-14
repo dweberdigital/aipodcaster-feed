@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Oct 2026 13:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:35:08 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-14 — Oct 14, 2026</title>
+      <description>Nick G. and a seven-person source control team built Scion in about five months and fully migrated. Claude was both the reason they had to, and most of the typing. In May they averaged about twenty-five hundred merges a day. By September it was over thirty thousand. Main-branch h</description>
+      <pubDate>Wed, 14 Oct 2026 13:35:05 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-14-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-14-daily.mp3" length="3830638" type="audio/mpeg"/>
+      <itunes:title>2026-10-14 — Oct 14, 2026</itunes:title>
+      <itunes:summary>Nick G. and a seven-person source control team built Scion in about five months and fully migrated. Claude was both the reason they had to, and most of the typing. In May they averaged about twenty-five hundred merges a day. By September it was over thirty thousand. Main-branch h</itunes:summary>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-13 — Oct 13, 2026</title>
       <description>First beat. Yoav Weiss at Shopify wrote up why WebMCP matters, after shipping storefront WebMCP tools to production. Checkout support landed too. OpenAI added it in ChatGPT Desktop, Cloudflare supports it in Kitesurf and for customers, and the W3C and GS1 agentic commerce worksho</description>
