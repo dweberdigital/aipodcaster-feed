@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 Oct 2026 13:35:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:32:17 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-15 — Oct 15, 2026</title>
+      <description>Addy Osmani put out a piece called Agentic Verification. His whole point fits in one sentence. Writing code isn&#x27;t the hard part anymore. Knowing it&#x27;s right is.</description>
+      <pubDate>Thu, 15 Oct 2026 13:32:15 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-15-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-15-daily.mp3" length="3784663" type="audio/mpeg"/>
+      <itunes:title>2026-10-15 — Oct 15, 2026</itunes:title>
+      <itunes:summary>Addy Osmani put out a piece called Agentic Verification. His whole point fits in one sentence. Writing code isn&#x27;t the hard part anymore. Knowing it&#x27;s right is.</itunes:summary>
+      <itunes:duration>00:03:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-14 — Oct 14, 2026</title>
       <description>Nick G. and a seven-person source control team built Scion in about five months and fully migrated. Claude was both the reason they had to, and most of the typing. In May they averaged about twenty-five hundred merges a day. By September it was over thirty thousand. Main-branch h</description>
