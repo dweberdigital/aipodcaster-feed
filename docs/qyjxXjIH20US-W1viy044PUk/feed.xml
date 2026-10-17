@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 Oct 2026 13:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:34:21 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-17 — Oct 17, 2026</title>
+      <description>Christian Schaller works on Gnome. After his mom passed, he ended up with a big box of old family negatives. He bought a film scanner that was supposed to work on Linux. Turns out the maker had quietly swapped the chip inside, and the new one had no Linux driver at all.</description>
+      <pubDate>Sat, 17 Oct 2026 13:34:19 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-17-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-17-daily.mp3" length="3614554" type="audio/mpeg"/>
+      <itunes:title>2026-10-17 — Oct 17, 2026</itunes:title>
+      <itunes:summary>Christian Schaller works on Gnome. After his mom passed, he ended up with a big box of old family negatives. He bought a film scanner that was supposed to work on Linux. Turns out the maker had quietly swapped the chip inside, and the new one had no Linux driver at all.</itunes:summary>
+      <itunes:duration>00:03:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-16 — Oct 16, 2026</title>
       <description>Perplexity open-sourced SPACE. The name expands to Sandboxed Platform for Agentic Code Execution. Apache two point oh. Written in Rust. And it&#x27;s the most concrete self-host answer I&#x27;ve seen this week to a question your factory has to settle. Where does agent-run code actually exe</description>
