@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 Oct 2026 13:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:35:51 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-20 — Oct 20, 2026</title>
+      <description>Here&#x27;s the setup. Back in April a review cost them a little over a dollar. By the end of August it was close to two and a half. They hadn&#x27;t changed the design at all. Engineers were shipping bigger changes, so diffs got bigger. And they&#x27;d moved every reviewer onto Anthropic model</description>
+      <pubDate>Tue, 20 Oct 2026 13:35:48 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-20-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-20-daily.mp3" length="3764183" type="audio/mpeg"/>
+      <itunes:title>2026-10-20 — Oct 20, 2026</itunes:title>
+      <itunes:summary>Here&#x27;s the setup. Back in April a review cost them a little over a dollar. By the end of August it was close to two and a half. They hadn&#x27;t changed the design at all. Engineers were shipping bigger changes, so diffs got bigger. And they&#x27;d moved every reviewer onto Anthropic model</itunes:summary>
+      <itunes:duration>00:03:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-19 — Oct 19, 2026</title>
       <description>Kristen Maevyn published something called The Decoherence Trap. She defines decoherence as the pile-up of models that each make sense on their own, but don&#x27;t fit together. Or they&#x27;re redundant. Either way, the real cost of changing anything becomes translating between them and tr</description>
