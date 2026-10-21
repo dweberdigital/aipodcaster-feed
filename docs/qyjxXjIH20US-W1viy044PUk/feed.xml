@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Oct 2026 13:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:29:27 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-21 — Oct 21, 2026</title>
+      <description>He starts with an old idea from Guillermo Rauch. A screen should be a pure function of state. You hand it the state, it hands you back what the page looks like. Same inputs, same screen.</description>
+      <pubDate>Wed, 21 Oct 2026 13:29:24 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-21-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-21-daily.mp3" length="3525110" type="audio/mpeg"/>
+      <itunes:title>2026-10-21 — Oct 21, 2026</itunes:title>
+      <itunes:summary>He starts with an old idea from Guillermo Rauch. A screen should be a pure function of state. You hand it the state, it hands you back what the page looks like. Same inputs, same screen.</itunes:summary>
+      <itunes:duration>00:03:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-20 — Oct 20, 2026</title>
       <description>Here&#x27;s the setup. Back in April a review cost them a little over a dollar. By the end of August it was close to two and a half. They hadn&#x27;t changed the design at all. Engineers were shipping bigger changes, so diffs got bigger. And they&#x27;d moved every reviewer onto Anthropic model</description>
