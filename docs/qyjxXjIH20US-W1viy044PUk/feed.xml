@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 13:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:40:19 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-26 — Oct 26, 2026</title>
+      <description>Short research brief from the wiki.</description>
+      <pubDate>Mon, 26 Oct 2026 13:40:16 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-26-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-26-daily.mp3" length="3301084" type="audio/mpeg"/>
+      <itunes:title>2026-10-26 — Oct 26, 2026</itunes:title>
+      <itunes:summary>Short research brief from the wiki.</itunes:summary>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-25 — Oct 25, 2026</title>
       <description>The title is about when to fold subagents back into your main agent. Their Applied AI team looked at a bunch of big company deployments. And a lot of them had built the same thing. Every team ships its own little agent, and then a platform team puts an orchestrator on top. They p</description>
