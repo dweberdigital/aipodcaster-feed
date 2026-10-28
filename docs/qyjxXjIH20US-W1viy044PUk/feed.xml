@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 27 Oct 2026 13:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:33:04 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-28 — Oct 28, 2026</title>
+      <description>Amazon put out a memo on how its engineers should use AI. It went around inside the company in September, and they posted it publicly yesterday. CNBC wrote it up. The press is calling it the anti-tokenmaxxing memo.</description>
+      <pubDate>Wed, 28 Oct 2026 13:33:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-28-daily.mp3" length="3247167" type="audio/mpeg"/>
+      <itunes:title>2026-10-28 — Oct 28, 2026</itunes:title>
+      <itunes:summary>Amazon put out a memo on how its engineers should use AI. It went around inside the company in September, and they posted it publicly yesterday. CNBC wrote it up. The press is calling it the anti-tokenmaxxing memo.</itunes:summary>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-27 — Oct 27, 2026</title>
       <description>Here&#x27;s the setup. Agents ship code way faster than people do. But every change still goes through CI. So CI turns into the thing everyone waits on. Humans wait, and so do the agents.</description>
