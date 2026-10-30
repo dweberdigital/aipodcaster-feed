@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 Oct 2026 13:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:36:12 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-10-30 — Oct 30, 2026</title>
+      <description>David Cramer, the Sentry co-founder, wrote a post this week called &quot;A Little Determinism.&quot; It&#x27;s about Junior. That&#x27;s Sentry&#x27;s open-source agent that lives in Slack. It started out turning Slack threads into GitHub issues. Now it&#x27;s how David ships code at Sentry.</description>
+      <pubDate>Fri, 30 Oct 2026 13:36:09 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-30-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-10-30-daily.mp3" length="3912558" type="audio/mpeg"/>
+      <itunes:title>2026-10-30 — Oct 30, 2026</itunes:title>
+      <itunes:summary>David Cramer, the Sentry co-founder, wrote a post this week called &quot;A Little Determinism.&quot; It&#x27;s about Junior. That&#x27;s Sentry&#x27;s open-source agent that lives in Slack. It started out turning Slack threads into GitHub issues. Now it&#x27;s how David ships code at Sentry.</itunes:summary>
+      <itunes:duration>00:04:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-29 — Oct 29, 2026</title>
       <description>Atif Azam used to be at Coinbase. He left a couple years ago to build on his own, and he&#x27;s shipped close to a dozen products since. He wrote a post this week called &quot;The software factory forgot about design.&quot; It&#x27;s short, and it&#x27;s really practical.</description>
