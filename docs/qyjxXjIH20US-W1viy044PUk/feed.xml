@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 13:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:29:17 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-01 — Nov 1, 2026</title>
+      <description>It&#x27;s by a designer who goes by Noman, and it&#x27;s called &quot;Designing a skill.&quot; His opening idea is simple. Skills are the apps of the agent era. You install one, you ask your agent to use it, and a job gets done. The only difference is it&#x27;s written in markdown instead of code.</description>
+      <pubDate>Sun, 01 Nov 2026 14:29:14 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-01-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-01-daily.mp3" length="3647990" type="audio/mpeg"/>
+      <itunes:title>2026-11-01 — Nov 1, 2026</itunes:title>
+      <itunes:summary>It&#x27;s by a designer who goes by Noman, and it&#x27;s called &quot;Designing a skill.&quot; His opening idea is simple. Skills are the apps of the agent era. You install one, you ask your agent to use it, and a job gets done. The only difference is it&#x27;s written in markdown instead of code.</itunes:summary>
+      <itunes:duration>00:03:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-31 — Oct 31, 2026</title>
       <description>Martin Alderson has spent his career making websites and apps faster. Over the last year he&#x27;s been doing the same thing for agents. He wrote up what he&#x27;s learned, and the post is called &quot;Making agents fast.&quot;</description>
