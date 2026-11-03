@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Nov 2026 14:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:33:05 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-03 — Nov 3, 2026</title>
+      <description>Phil Schmid wrote a post over the weekend with a bold title. Why agents are soon only going to have one tool. That one tool is called exec. You give the model a sandbox, and instead of calling tools one at a time, it writes a short script.</description>
+      <pubDate>Tue, 03 Nov 2026 14:33:01 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-03-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-03-daily.mp3" length="3354583" type="audio/mpeg"/>
+      <itunes:title>2026-11-03 — Nov 3, 2026</itunes:title>
+      <itunes:summary>Phil Schmid wrote a post over the weekend with a bold title. Why agents are soon only going to have one tool. That one tool is called exec. You give the model a sandbox, and instead of calling tools one at a time, it writes a short script.</itunes:summary>
+      <itunes:duration>00:03:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-02 — Nov 2, 2026</title>
       <description>Short research brief from the wiki.</description>
