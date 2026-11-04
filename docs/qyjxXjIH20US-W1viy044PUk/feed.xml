@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 14:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:30:53 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-04 — Nov 4, 2026</title>
+      <description>Revolut, the British fintech, moved its engineers off Claude for coding. They now run an open-weights model called G-L-M on their own GPUs. Their infra lead, David Ah-bit-bol, told the story at the AI Engineer conference in New York. The headline is that their coding inference bi</description>
+      <pubDate>Wed, 04 Nov 2026 14:30:50 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-04-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-04-daily.mp3" length="3494181" type="audio/mpeg"/>
+      <itunes:title>2026-11-04 — Nov 4, 2026</itunes:title>
+      <itunes:summary>Revolut, the British fintech, moved its engineers off Claude for coding. They now run an open-weights model called G-L-M on their own GPUs. Their infra lead, David Ah-bit-bol, told the story at the AI Engineer conference in New York. The headline is that their coding inference bi</itunes:summary>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-03 — Nov 3, 2026</title>
       <description>Phil Schmid wrote a post over the weekend with a bold title. Why agents are soon only going to have one tool. That one tool is called exec. You give the model a sandbox, and instead of calling tools one at a time, it writes a short script.</description>
