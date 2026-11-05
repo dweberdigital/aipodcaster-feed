@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Nov 2026 14:30:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:33:43 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-05 — Nov 5, 2026</title>
+      <description>X just published how they rebuilt the X.com web app. Five engineers, working with coding agents, built the first version in under six months. That&#x27;s one of the biggest sites in the world. The post is by Yah-giz Nih-zip-lee, a principal engineer there.</description>
+      <pubDate>Thu, 05 Nov 2026 14:33:40 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-05-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-05-daily.mp3" length="3531380" type="audio/mpeg"/>
+      <itunes:title>2026-11-05 — Nov 5, 2026</itunes:title>
+      <itunes:summary>X just published how they rebuilt the X.com web app. Five engineers, working with coding agents, built the first version in under six months. That&#x27;s one of the biggest sites in the world. The post is by Yah-giz Nih-zip-lee, a principal engineer there.</itunes:summary>
+      <itunes:duration>00:03:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-04 — Nov 4, 2026</title>
       <description>Revolut, the British fintech, moved its engineers off Claude for coding. They now run an open-weights model called G-L-M on their own GPUs. Their infra lead, David Ah-bit-bol, told the story at the AI Engineer conference in New York. The headline is that their coding inference bi</description>
