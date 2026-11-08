@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 07 Nov 2026 14:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:32:02 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-08 — Nov 8, 2026</title>
+      <description>It comes from a bookmark you saved. Andrea Michi is the CTO at a company called depthfirst. He and Seshank Koganti wrote up how they built their own cloud dev environment for coding agents. They say it was up and running in under a week.</description>
+      <pubDate>Sun, 08 Nov 2026 14:31:58 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-08-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-08-daily.mp3" length="3382167" type="audio/mpeg"/>
+      <itunes:title>2026-11-08 — Nov 8, 2026</itunes:title>
+      <itunes:summary>It comes from a bookmark you saved. Andrea Michi is the CTO at a company called depthfirst. He and Seshank Koganti wrote up how they built their own cloud dev environment for coding agents. They say it was up and running in under a week.</itunes:summary>
+      <itunes:duration>00:03:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-07 — Nov 7, 2026</title>
       <description>GitHub just wrote up their new Git storage design. The post is by Karthik Raman and Brian Celenza. In internal tests they had five thousand agents working in one repo, pushing thousands of times a second, and reads stayed fast. They call the project Rubicon.</description>
