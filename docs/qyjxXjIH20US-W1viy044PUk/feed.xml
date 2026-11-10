@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Nov 2026 14:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:34:22 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-10 — Nov 10, 2026</title>
+      <description>Chetas Joshi runs part of the data platform at Robinhood. His team owns review for anything that touches their data pipelines. Schema changes, pipeline code, access grants. And AI made those pull requests cheap. They show up way faster than the handful of people who actually know</description>
+      <pubDate>Tue, 10 Nov 2026 14:34:19 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-10-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-10-daily.mp3" length="3703997" type="audio/mpeg"/>
+      <itunes:title>2026-11-10 — Nov 10, 2026</itunes:title>
+      <itunes:summary>Chetas Joshi runs part of the data platform at Robinhood. His team owns review for anything that touches their data pipelines. Schema changes, pipeline code, access grants. And AI made those pull requests cheap. They show up way faster than the handful of people who actually know</itunes:summary>
+      <itunes:duration>00:03:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-09 — Nov 9, 2026</title>
       <description>Sean Goedecke wrote a post this weekend with a blunt title. L L Ms are terrible at designing AI systems. They&#x27;re fine writing normal code. But hand them a problem where the right answer is just call another model, and they&#x27;ll often miss it.</description>
