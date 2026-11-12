@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 14:37:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:29:34 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-12 — Nov 12, 2026</title>
+      <description>There&#x27;s a post going around called Subagents considered harmful, with a question mark. It&#x27;s from the writer at nik v d p dot com. And it opens with a failure I bet you&#x27;ve seen.</description>
+      <pubDate>Thu, 12 Nov 2026 14:29:30 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-12-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-12-daily.mp3" length="3824369" type="audio/mpeg"/>
+      <itunes:title>2026-11-12 — Nov 12, 2026</itunes:title>
+      <itunes:summary>There&#x27;s a post going around called Subagents considered harmful, with a question mark. It&#x27;s from the writer at nik v d p dot com. And it opens with a failure I bet you&#x27;ve seen.</itunes:summary>
+      <itunes:duration>00:03:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-11 — Nov 11, 2026</title>
       <description>Chrome just shipped version one of something called Modern Web Guidance. Firefox and Edge signed on too, so it&#x27;s not just a Google thing anymore. It&#x27;s a set of skill files you drop into your coding agent. They teach it how the web platform actually works today, with browser suppo</description>
