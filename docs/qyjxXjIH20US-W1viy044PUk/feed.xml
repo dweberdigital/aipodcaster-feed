@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 14:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:33:20 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-13 — Nov 13, 2026</title>
+      <description>Gabe Orlanski put out a post called Slop Is Moving Up the Stack. He&#x27;s behind Slop Code Bench, the benchmark where an agent writes a program, then has to keep extending its own code as the spec changes. Dex Horthy has been running it on every new frontier model.</description>
+      <pubDate>Fri, 13 Nov 2026 14:33:17 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-13-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-13-daily.mp3" length="3513407" type="audio/mpeg"/>
+      <itunes:title>2026-11-13 — Nov 13, 2026</itunes:title>
+      <itunes:summary>Gabe Orlanski put out a post called Slop Is Moving Up the Stack. He&#x27;s behind Slop Code Bench, the benchmark where an agent writes a program, then has to keep extending its own code as the spec changes. Dex Horthy has been running it on every new frontier model.</itunes:summary>
+      <itunes:duration>00:03:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-12 — Nov 12, 2026</title>
       <description>There&#x27;s a post going around called Subagents considered harmful, with a question mark. It&#x27;s from the writer at nik v d p dot com. And it opens with a failure I bet you&#x27;ve seen.</description>
