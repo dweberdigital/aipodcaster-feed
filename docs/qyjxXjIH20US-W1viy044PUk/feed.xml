@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Nov 2026 14:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:33:08 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-14 — Nov 14, 2026</title>
+      <description>It comes from a post called Why a Button Takes a Month. It&#x27;s by TJ at Southleft. They&#x27;re building a thing called D S Contracts. It takes a design system and converts it between React and Figma, in both directions. Code becomes a real Figma component set. Figma becomes React you c</description>
+      <pubDate>Sat, 14 Nov 2026 14:33:04 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-14-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-14-daily.mp3" length="3309861" type="audio/mpeg"/>
+      <itunes:title>2026-11-14 — Nov 14, 2026</itunes:title>
+      <itunes:summary>It comes from a post called Why a Button Takes a Month. It&#x27;s by TJ at Southleft. They&#x27;re building a thing called D S Contracts. It takes a design system and converts it between React and Figma, in both directions. Code becomes a real Figma component set. Figma becomes React you c</itunes:summary>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-13 — Nov 13, 2026</title>
       <description>Gabe Orlanski put out a post called Slop Is Moving Up the Stack. He&#x27;s behind Slop Code Bench, the benchmark where an agent writes a program, then has to keep extending its own code as the spec changes. Dex Horthy has been running it on every new frontier model.</description>
