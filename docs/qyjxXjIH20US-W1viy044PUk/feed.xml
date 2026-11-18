@@ -9,7 +9,7 @@
     <copyright>Private feed for Dustin Weber</copyright>
     <description>Short morning research briefs from Dustin's wiki — TLDR notes, Substack, and software-factory material. Private subscribe URL; do not share.</description>
     <atom:link href="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 14:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:29:34 +0000</lastBuildDate>
     <itunes:author>AIPodcaster</itunes:author>
     <itunes:summary>Short morning research briefs. Private feed.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,17 @@
       <title>AI Daily Brief</title>
       <link>https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/</link>
     </image>
+    <item>
+      <title>2026-11-18 — Nov 18, 2026</title>
+      <description>It comes from a Stanford lecture that dropped yesterday. Michael Ryan teaches it. He&#x27;s one of the people behind the optimizers in D S Py. And the whole lecture is about one question. When your agent isn&#x27;t good enough, do you change what it reads, or do you change the model itself</description>
+      <pubDate>Wed, 18 Nov 2026 14:29:30 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-18-daily</guid>
+      <enclosure url="https://dweberdigital.github.io/aipodcaster-feed/qyjxXjIH20US-W1viy044PUk/episodes/2026-11-18-daily.mp3" length="3510900" type="audio/mpeg"/>
+      <itunes:title>2026-11-18 — Nov 18, 2026</itunes:title>
+      <itunes:summary>It comes from a Stanford lecture that dropped yesterday. Michael Ryan teaches it. He&#x27;s one of the people behind the optimizers in D S Py. And the whole lecture is about one question. When your agent isn&#x27;t good enough, do you change what it reads, or do you change the model itself</itunes:summary>
+      <itunes:duration>00:03:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-17 — Nov 17, 2026</title>
       <description>Automattic&#x27;s design team put out a post about this. Their worry is simple. More and more interface copy is getting written by agents now. Headings, buttons, empty states, error messages. And when it reads like AI slop, people trust the product less. Then a designer burns an after</description>
